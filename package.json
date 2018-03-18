@@ -1,0 +1,22 @@
+{
+  "name": "skald",
+  "version": "0.0.1",
+  "description": "A pen and paper game assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sleepy-Fish/skald.git"
+  },
+  "author": "J Riley Harrington <jrileyharrington@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sleepy-Fish/skald/issues"
+  },
+  "homepage": "https://github.com/Sleepy-Fish/skald#readme",
+  "dependencies": {
+    "kunsido-server": "0.0.1"
+  }
+}
